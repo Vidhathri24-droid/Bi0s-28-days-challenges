@@ -7,7 +7,7 @@
 **Nmap:**Nmap is a network scanning tool.
 
 
-**ncat:** It acts as a simple TCP/UDP/SCTP/SSL client for interacting with web servers, telnet servers, mail servers, and other TCP/IP network services.
+**ncat:** It acts as a simple TCP/UDP/SMTP/SSL client for interacting with web servers, telnet servers, mail servers, and other TCP/IP network services.
 
 **Chmod 700:** To enable all the permissions to owner for a file and restricts others from using it.
 
