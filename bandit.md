@@ -41,6 +41,3 @@
 
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/61f3c9b5-f147-4605-b0f1-122e1b6f8d6b">
 
-<img width="629" alt="image" src="https://github.com/user-attachments/assets/edb2dafd-444e-4abf-a139-e62d57a300bc">
-
-<img width="686" alt="image" src="https://github.com/user-attachments/assets/b25a9586-0ccb-4bd7-9822-a1ccba85f662">
