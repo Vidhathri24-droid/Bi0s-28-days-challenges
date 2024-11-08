@@ -152,6 +152,12 @@ To send a http request using nc we the below command
 
 **Level 23**
 
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/ad59136c-b1d0-4fd2-bcf6-8fea43ef300a">
+
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/25418172-d4c6-461d-9afd-77f0104a5e34">
+
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/5070b784-3670-4442-a50f-85286d08751b">
+
 
 **Level 24**
 
